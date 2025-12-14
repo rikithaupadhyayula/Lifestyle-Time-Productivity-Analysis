@@ -26,8 +26,6 @@ This project analyzes how daily lifestyle time allocation—such as sleep, work,
 
 ## 📷 Dashboard Preview
 ![Overview](overview.png)
-![Scatter](sleep_productivity_scatter.png)
-![Insights](insights.png)
 
 ## 📂 File
 - `.pbix` file included for full interactive dashboard
